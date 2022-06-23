@@ -1,6 +1,7 @@
 Redmine Mentions
 ================
-Forked from https://github.com/arkhitech/redmine_mentions 
+Forked from https://github.com/arkhitech/redmine_mentions.
+
 Customize by dongdv and made it work with Redmine4.x/Ruby2.6.x/Rails5.2.x.
 
 =============
